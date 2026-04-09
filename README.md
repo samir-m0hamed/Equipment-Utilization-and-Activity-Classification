@@ -94,8 +94,5 @@ Sample output: [outputs/output sample.mp4](outputs/output%20sample.mp4)
 ## Contributing
 Contributions are welcome through pull requests. For major updates, please open an issue first to discuss scope and approach.
 
-## License
-This project is available for educational and research use. You can add a dedicated license file if required by your organization.
-
 ## Author
 - GitHub: [samir-m0hamed](https://github.com/samir-m0hamed)
