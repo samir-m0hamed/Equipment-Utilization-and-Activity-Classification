@@ -178,7 +178,7 @@ Generated artifacts include:
 ### Sample Output
 <video src="outputs/output%20sample.mp4" controls width="100%"></video>
 
-[Download sample video]([outputs/output%20sample.mp4](https://github.com/samir-m0hamed/Equipment-Utilization-and-Activity-Classification/raw/refs/heads/main/outputs/output%20sample.mp4))
+[Download sample video](outputs/output%20sample.mp4)
 
 ---
 
