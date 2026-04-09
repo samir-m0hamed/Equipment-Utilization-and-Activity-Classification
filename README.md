@@ -7,6 +7,14 @@ The system is designed to transform raw video streams into actionable utilizatio
 
 ---
 
+## Live Demo
+
+An interactive deployment is available on Hugging Face Spaces, showcasing real-time equipment tracking, activity classification, and utilization analytics:
+
+https://huggingface.co/spaces/samir-mohamed/Equipment-Utilization-Activity-Classifier
+
+---
+
 ## Project Objective
 The goal of this project is to design and implement a **real-time, distributed pipeline** that:
 
