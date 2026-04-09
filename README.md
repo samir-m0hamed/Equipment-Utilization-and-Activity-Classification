@@ -85,7 +85,7 @@ Sample output video:
 
 <video src="outputs/output%20sample.mp4" controls width="100%"></video>
 
-Direct link: [outputs/output sample.mp4](outputs/output%20sample.mp4)
+Sample output: [outputs/output%20sample.mp4](outputs/output%20sample.mp4)
 
 ## Notes
 - The pipeline is designed for construction equipment operations and utilization analysis.
