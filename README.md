@@ -11,7 +11,7 @@ The system is designed to transform raw video streams into actionable utilizatio
 
 An interactive deployment is available on Hugging Face Spaces, showcasing real-time equipment tracking, activity classification, and utilization analytics:
 
-https://huggingface.co/spaces/samir-mohamed/Equipment-Utilization-Activity-Classifier
+[Live Demo on Hugging Face](https://huggingface.co/spaces/samir-mohamed/Equipment-Utilization-Activity-Classifier)
 
 ---
 
