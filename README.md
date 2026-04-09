@@ -164,7 +164,7 @@ pip install ultralytics opencv-python numpy pandas tqdm torch
 python script/pipeline.py \
   --input_video "/path/to/input.mp4" \
   --output_dir "./outputs/baseline_foundation" \
-  --weights "yolov8x.pt"
+  --weights "best.pt"
 ~~~
 
 ### Run (Notebook Mode)
